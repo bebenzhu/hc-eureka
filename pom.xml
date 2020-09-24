@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.hcself</groupId>
-    <artifactId>hc-eureka</artifactId>
+    <artifactId>hceureka</artifactId>
     <version>0.0.1</version>
     <name>hc-eureka</name>
     <description>hc-eureka</description>
